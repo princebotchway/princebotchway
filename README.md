@@ -6,7 +6,8 @@ I am the best there is and the best there will ever be
 🔥
 
 📫 How to reach me: botchway198@gmail.com
-🌱 I’m currently learning : Learn Data Analysis
+<br>
+🌱 I’m currently learning : Learning Data Analysis
 
 <!--
 **princebotchway/princebotchway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
