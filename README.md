@@ -5,6 +5,8 @@
 I am the best there is and the best there will ever be
 🔥
 
+📫 How to reach me: botchway198@gmail.com
+
 <!--
 **princebotchway/princebotchway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
